@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 namespace Problem_4 {
     class Program {
         static void Main(string[] args) {
-            int n = int.Parse(Console.ReadLine());
-            for(int i = 1; i <= n; i++) {
-                for(int r = 1; r <= i; r++) {
+            int n = int.Parse(Console.ReadLine());                                      // Создал переменную хранящую количество элементов
+            for(int i = 1; i <= n; i++) {                                              // Прохожу по элементам от 1 до n
+                for(int r = 1; r <= i; r++) {                                         // прохожусь по элементам от 1 до i
                     Console.Write("[*]");
                 }
 
