@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\Lab1\Problem 3\obj\Debug\Problem 3.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Lab1\Problem 3\obj\Debug\Problem 3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Lab1\Problem 3\bin\Debug\Problem 3.exe.config
+C:\Users\Lenovo\source\repos\Lab1\Problem 3\bin\Debug\Problem 3.exe
+C:\Users\Lenovo\source\repos\Lab1\Problem 3\bin\Debug\Problem 3.pdb
+C:\Users\Lenovo\source\repos\Lab1\Problem 3\obj\Debug\Problem 3.exe
+C:\Users\Lenovo\source\repos\Lab1\Problem 3\obj\Debug\Problem 3.pdb

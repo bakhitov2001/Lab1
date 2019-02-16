@@ -25,7 +25,7 @@ public class Program {
         }
         
         Console.WriteLine(cnt);
-        for(int i = 0; i < cnt; i++) {
+        for(int i = 0; i < cnt; i++) 
             Console.Write(Prime[i] + " ");
         }
     }
